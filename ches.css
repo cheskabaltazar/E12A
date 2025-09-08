@@ -1,0 +1,30 @@
+img{
+height: 200px;
+width: 200px;
+float: left;
+}
+.cat{
+    display:inline-block;
+    width: 400px;
+    height: 400px;
+    background-color: darkolivegreen;
+    float: left;
+    font-size: 20px;
+}
+.dog{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-color: darkcyan;
+    margin-left: 500px;
+    float: right;
+    font-size: 20px;
+}
+span{
+    font-weight: bold;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: darkkhaki;
+}
